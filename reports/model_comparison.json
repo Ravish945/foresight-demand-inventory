@@ -1,0 +1,8 @@
+{
+  "backtest_origins": 4,
+  "seasonal_naive_WAPE": 0.11467058112425525,
+  "seasonal_naive_bias": 0.0022066795229734528,
+  "random_forest_WAPE": 0.12002286220760977,
+  "random_forest_bias": 0.05720072994032307,
+  "selected_model": "Seasonal naive (52-week lag)"
+}

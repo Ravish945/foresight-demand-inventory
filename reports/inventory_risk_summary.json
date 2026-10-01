@@ -1,0 +1,17 @@
+{
+  "matched_skus_scored": 50,
+  "inventory_skus_without_sales_and_product_match": 150,
+  "inventory_as_of": "2025-12-01",
+  "first_forecast_week": "2026-01-05",
+  "stockout_risk_skus": 7,
+  "overstock_risk_skus": 2,
+  "recommended_actions": {
+    "Healthy": 41,
+    "Reorder now": 7,
+    "Markdown / clear": 2
+  },
+  "estimated_sales_at_risk_rupees": 3552617.08,
+  "estimated_capital_locked_rupees": 2111117.52,
+  "overstock_rule": "On-hand stock exceeds twice the six-week forecast.",
+  "stockout_rule": "Available stock is at/below reorder point, or projected stock after lead-time demand is below safety stock."
+}

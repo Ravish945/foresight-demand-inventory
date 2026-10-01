@@ -1,0 +1,8 @@
+{
+  "model": "Seasonal naive (52-week lag)",
+  "forecast_horizon_weeks": 6,
+  "backtest_origins": 4,
+  "WAPE": 0.11467058112425525,
+  "Bias": 0.0022066795229734528,
+  "bias_interpretation": "positive means over-forecast; negative means under-forecast"
+}
